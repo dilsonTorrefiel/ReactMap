@@ -1,2 +1,2 @@
-# ReactMap
+# ReactPropertiesChallenge
 Created with CodeSandbox
